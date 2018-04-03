@@ -2,4 +2,4 @@
 composer.phar
 app/vendor/
 app/storage/cache/*
-.idea/
+/.idea
