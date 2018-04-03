@@ -9,7 +9,9 @@
   <component name="EmacsSettings">
     <option name="emacsPath" value="/usr/bin/emacs" />
   </component>
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_3">
-    <output url="file://$PROJECT_DIR$/out" />
+  <component name="JavaScriptSettings">
+    <option name="languageLevel" value="ES6" />
   </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_3" />
 </project>

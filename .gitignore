@@ -1,0 +1,5 @@
+### Composer template
+composer.phar
+app/vendor/
+app/storage/cache/*
+.idea/

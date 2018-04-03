@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/dockers-elk.iml" filepath="$PROJECT_DIR$/dockers-elk.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/dockers-elk.iml" filepath="$PROJECT_DIR$/.idea/dockers-elk.iml" />
     </modules>
   </component>
 </project>
