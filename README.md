@@ -15,7 +15,7 @@ Based on the official Docker images:
 
 # How to setup 
 
-1.Clone this repository
+ 1.Clone this repository
 
 
 2. Start the ELK stack using `docker-compose`:
