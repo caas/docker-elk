@@ -17,11 +17,14 @@ Based on the official Docker images:
 
 1.Clone this repository
 
+
 2. Start the ELK stack using `docker-compose`:
 
 ```console
 $ docker-compose up
 ```
+# OR
+
 You can also choose to run it in background (detached mode):
 
 ```console
