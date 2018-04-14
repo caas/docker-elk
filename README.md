@@ -1,4 +1,4 @@
-# dockers-elk
+# Dockers-ELK
 
 
 Run the latest version of the ELK (Elasticsearch, Logstash, Kibana) stack with Docker and Docker Compose.
