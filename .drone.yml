@@ -1,0 +1,14 @@
+
+
+  build:
+    commands:
+                                                squizlabs/php_codesniffer \
+                                                phpstan/phpstan
+      - cd /var/www && composer global require jakub-onderka/php-parallel-lint \
+      - cd /var/www/${DRONE_REPO_NAME} && git pull origin && composer install
+      - /bin/sh drone/repo.sh
+      - /bin/sh drone/linting.sh
+      - /bin/sh drone/codesniff.sh
+      - /bin/sh drone/phpstan.sh
+
+
